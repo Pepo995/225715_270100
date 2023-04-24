@@ -1,0 +1,8 @@
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\bin\Debug\Obligatorio1.exe.config
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\bin\Debug\Obligatorio1.exe
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\bin\Debug\Obligatorio1.pdb
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\obj\Debug\Obligatorio1.csproj.AssemblyReference.cache
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\obj\Debug\Obligatorio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\obj\Debug\Obligatorio1.csproj.CoreCompileInputs.cache
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\obj\Debug\Obligatorio1.exe
+C:\Users\pepob\Desktop\225715_270100\Obligatorio1\Obligatorio1\obj\Debug\Obligatorio1.pdb
